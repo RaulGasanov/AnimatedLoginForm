@@ -1,3 +1,3 @@
 # Animated Login Form
 
-Login Page using Html CSS
+Login Page using only Html CSS
